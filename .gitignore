@@ -1,0 +1,9 @@
+#忽略编译
+**/target/
+#idea文件
+.idea
+*.iml
+*.class
+#忽略测试文件
+*Test.java
+**/test/
