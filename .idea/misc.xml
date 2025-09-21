@@ -8,6 +8,9 @@
         <option value="$PROJECT_DIR$/backend/common/pom.xml" />
         <option value="$PROJECT_DIR$/pojo/common/pom.xml" />
         <option value="$PROJECT_DIR$/backend/pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/commmon/pom.xml" />
+        <option value="$PROJECT_DIR$/service/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
